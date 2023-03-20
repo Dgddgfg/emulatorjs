@@ -14,6 +14,10 @@ Self-hosted **Javascript** emulation for various system.
 
 <br>
 
+Try out netplay [here](https://demo.emulatorjs.org/demos/netplay.html)!
+
+<br>
+
 [![Button Website]][Website] 
 [![Button Usage]][Usage]<br>
 [![Button Configurator]][Configurator]<br>
@@ -25,6 +29,19 @@ Self-hosted **Javascript** emulation for various system.
 </div>
 
 <br>
+
+### Ads
+
+*This project has no ads.* <br>
+*Although, the demo page currently has an ad to help fund this project.* <br>
+*Ads on the demo page may come and go depending on how many people are* <br>
+*funding this project.* <br>
+
+*You can help fund this project on* ***[patreon]***
+
+<br>
+
+
 
 ### Issues
 
@@ -124,6 +141,7 @@ EJS_oldCores = true;
 
 [License]: LICENSE
 [Issue]: https://github.com/ethanaobrien/emulatorjs/issues
+[patreon]: https://patreon.com/EmulatorJS
 
 
 <!-- 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮   Extensions   🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 --->
@@ -133,12 +151,12 @@ EJS_oldCores = true;
 
 <!-- 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮   Quicklinks   🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 --->
 
-[Configurator]: https://emulatorjs.netlify.app/editor.html
+[Configurator]: https://emulatorjs.org/editor.html
 [Contributors]: docs/Contributors.md
-[Website]: https://emulatorjs.netlify.app/
+[Website]: https://emulatorjs.org/
 [Legacy]: https://coldcast.org/games/1/Super-Mario-Bros
-[Usage]: https://emulatorjs.netlify.app/docs/
-[Demo]: https://emulatorjs.github.io/EmulatorJS/
+[Usage]: https://emulatorjs.org/docs/
+[Demo]: https://demo.emulatorjs.org/
 
 
 <!-- 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮  Systems  🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 -->
